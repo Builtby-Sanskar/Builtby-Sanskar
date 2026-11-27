@@ -193,6 +193,9 @@ Developed a placement management web application featuring role-based authentica
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </td>
 
@@ -209,6 +212,10 @@ Built a blogging application featuring authentication, CRUD operations, database
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </td>
 </tr>
