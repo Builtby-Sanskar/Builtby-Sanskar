@@ -1,7 +1,9 @@
 
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:090014,50:32105C,100:8B5CF6&text=SANSKAR%20DUBEY&fontSize=48&fontColor=FFFFFF&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090014,50:32105C,100:8B5CF6&text=SANSKAR%20DUBEY&fontSize=48&fontColor=FFFFFF&animation=fadeIn&stroke=8B5CF6&strokeWidth=1&fontAlignY=38" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=C4B5FD&center=true&vCenter=true&width=750&lines=Data+Analysis+%7C+MIS+Reporting;Advanced+Excel+%7C+Python+%7C+Django;Operations+%7C+Database+Management;Turning+Data+Into+Meaningful+Insights" />
 
@@ -17,16 +19,19 @@
 
 ---
 
+<!-- ================= ABOUT ME ================= -->
+
 <h2 align="center">👨‍💻 ABOUT ME</h2>
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="23%" align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django" width="100%" />
+<img src="https://skillicons.dev/icons?i=python,django" />
 
 </td>
-<td width="75%">
+
+<td width="52%">
 
 ### Hi, I'm Sanskar Dubey 👋
 
@@ -35,62 +40,94 @@
 I enjoy working with data, transforming raw information into meaningful insights, and building practical software solutions.
 
 </td>
+
+<td width="25%">
+
+- 📊 Data Analysis
+- 📈 MIS Reporting
+- ⚙️ Operations
+- 🐍 Python & Django
+- 🚀 Continuous Learning
+
+</td>
 </tr>
 </table>
 
 - 📊 Interested in Data Analysis and MIS Reporting
-- 📈 Working with Advanced Excel and data validation
-- ⚙️ Interested in reconciliation, operational tracking and gap analysis
-- 🐍 Exploring Python, Django and database management
+- 📈 Experienced with Advanced Excel functions and data validation concepts
+- ⚙️ Interested in operational tracking, reconciliation and gap analysis
+- 🐍 Working with Python, Django and database management
 - 🚀 Passionate about learning, problem-solving and technology
 
 ---
 
+<!-- ================= SKILLS ================= -->
+
 <h2 align="center">💎 MY SKILL SET</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <h3>📊 Data Analysis & Reporting</h3>
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/Data_Cleaning-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data_Validation-6D28D9?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Reconciliation-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MIS_Reporting-9333EA?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Data_Comparison-6D28D9?style=for-the-badge" />
 
-</div>
+</td>
+
+<td width="50%" valign="top">
 
 <h3>📗 Advanced MS Excel</h3>
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/VLOOKUP-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
 <img src="https://img.shields.io/badge/XLOOKUP-217346?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/SUMIF%2FSUMIFS-217346?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/COUNTIF%2FCOUNTIFS-217346?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Conditional_Formatting-217346?style=for-the-badge" />
 
-</div>
+</td>
+</tr>
 
-<div align="center">
+<tr>
+<td colspan="2" align="center">
 
 <sub>Other Excel Skills: IF, Filters, Data Comparison, Data Validation</sub>
 
-</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 <h3>⚙️ Operations & Management</h3>
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/District_Operations-8B5CF6?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Team_Coordination-6D28D9?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Operational_Tracking-7C3AED?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Gap_Analysis-9333EA?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Daily_Reporting-6D28D9?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Follow--ups-8B5CF6?style=for-the-badge" />
 
-</div>
+</td>
+
+<td width="50%" valign="top">
 
 <h3>🐍 Programming & Development</h3>
 
@@ -98,13 +135,21 @@ I enjoy working with data, transforming raw information into meaningful insights
 
 <img src="https://skillicons.dev/icons?i=python,django" />
 
-<br/><br/>
+</div>
+
+<br/>
 
 <img src="https://img.shields.io/badge/CRUD_Operations-3776AB?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Authentication-6D28D9?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Authorization-7C3AED?style=for-the-badge" />
 
-</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 <h3>🗄️ Database Management</h3>
 
@@ -112,12 +157,17 @@ I enjoy working with data, transforming raw information into meaningful insights
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-<br/><br/>
+</div>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django" />
+
 <img src="https://img.shields.io/badge/DBMS-2563EB?style=for-the-badge" />
 
-</div>
+</td>
+
+<td width="50%" valign="top">
 
 <h3>🛠️ Tools & Technologies</h3>
 
@@ -125,13 +175,19 @@ I enjoy working with data, transforming raw information into meaningful insights
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
-<br/><br/>
+</div>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
+
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
@@ -149,7 +205,9 @@ I enjoy working with data, transforming raw information into meaningful insights
 
 ---
 
-<h2 align="center">CONNECT WITH ME</h2>
+<!-- ================= CONNECT ================= -->
+
+<h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <div align="center">
 
@@ -167,4 +225,4 @@ I enjoy working with data, transforming raw information into meaningful insights
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:090014&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:090014&height=120&section=footer" width="100%" />
