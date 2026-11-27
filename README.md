@@ -66,31 +66,6 @@ Additionally trained in **Python and Django development**, with hands-on experie
 
 ---
 
-<!-- ═══════════════ EXPERIENCE ═══════════════ -->
-
-<h2 align="center">▌ PROFESSIONAL EXPERIENCE</h2>
-
-<details open>
-<summary><b>Data Analyst & District Operations Manager | AAS Consultant</b></summary>
-
-<br/>
-
-📍 Gomti Nagar, Lucknow, Uttar Pradesh
-
-<text> <b>Experience:</b> 1.5 Years </text>
-
-- Managed and analyzed large operational datasets using MS Excel for daily and periodic reporting.
-- Prepared MIS reports, data summaries, reconciliation reports and management dashboards to support operational decisions.
-- Utilized VLOOKUP/XLOOKUP, IF, SUMIF/SUMIFS, COUNTIF/COUNTIFS, filters, sorting, conditional formatting and pivot-based analysis.
-- Performed data cleaning, validation, duplicate checks, discrepancy identification and date-wise/ID-wise data comparison.
-- Monitored district-level operations, tracked pending activities, followed up on operational gaps and coordinated with teams for timely closure.
-- Maintained daily operational records and prepared district-wise and date-wise performance reports for management review.
-- Identified data discrepancies and operational gaps and communicated findings for corrective action.
-- Coordinated with internal and field teams to ensure accurate data collection, reporting and timely completion of operational tasks.
-
-</details>
-
----
 
 <!-- ═══════════════ TECHNICAL SKILLS ═══════════════ -->
 
@@ -197,30 +172,6 @@ Additionally trained in **Python and Django development**, with hands-on experie
 
 ---
 
-<!-- ═══════════════ APPRENTICESHIP ═══════════════ -->
-
-<h2 align="center">▌ INTERNSHIP / APPRENTICESHIP</h2>
-
-### Python Full Stack Developer Apprentice
-
-**Softpro India** — Lucknow, Uttar Pradesh
-
-<text color="#A78BFA">August 2025 – January 2026</text>
-
-- Developed web applications using Python, Django, HTML, CSS, Bootstrap and JavaScript.
-- Built authentication systems, CRUD functionality and database integration using MySQL and Django ORM.
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
----
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 
@@ -271,17 +222,6 @@ Built a blogging application featuring authentication, CRUD operations, database
 
 ---
 
-<!-- ═══════════════ EDUCATION ═══════════════ -->
-
-<h2 align="center">▌ EDUCATION</h2>
-
-| Qualification | Institution / Board | Year |
-|---|---|---|
-| Diploma in Information Technology | Feroze Gandhi Polytechnic College, Raebareli — BTEUP | 2022–2025 |
-| Intermediate (Class XII) | ISC Board | 2022 |
-| High School (Class X) | ICSE Board | 2020 |
-
----
 
 <!-- ═══════════════ LANGUAGES ═══════════════ -->
 
