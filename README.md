@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:7C3AED&height=200&section=header&text=SANSKAR%20DUBEY&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<h3>Data Analyst | District Operations Manager | Excel & MIS</h3>
+<h3>Data Analyst | District Operations Manager | Excel & MIS | Web Developer</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Data_Analysis-8B5CF6?style=flat-square" />
@@ -56,6 +56,8 @@ Additionally trained in **Python and Django development**, with hands-on experie
 - Advanced Excel
 - Operations Management
 - Reconciliation
+- Software Development
+- Web Development
 - Python Development
 - Django Applications
 - Database Management
