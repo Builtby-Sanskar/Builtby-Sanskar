@@ -1,48 +1,106 @@
 
-<!-- HEADER -->
+<!-- ═══════════════ HEADER ═══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:7C3AED&height=180&section=header&text=Sanskar%20Dubey&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:7C3AED&height=200&section=header&text=SANSKAR%20DUBEY&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<h3>Data Analyst | District Operations Manager | Excel & MIS</h3>
 
 <p>
-<b>Data Analysis | MIS Reporting | Operations | Python & Django</b>
+<img src="https://img.shields.io/badge/Data_Analysis-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/MIS_Reporting-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Meaningful+Insights;Building+Practical+Solutions+With+Technology;Learning+%7C+Building+%7C+Growing" />
-
-<br/>
+<p>
+📍 Raebareli, Uttar Pradesh &nbsp; • &nbsp;
+<a href="mailto:dubeysanskar35@gmail.com">Email Me</a>
+</p>
 
 <a href="https://github.com/Builtby-Sanskar">
-<img src="https://img.shields.io/badge/GitHub-Builtby--Sanskar-181717?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Builtby--Sanskar-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Builtby-Sanskar&style=flat-square&color=7C3AED&label=Profile+Views" />
+
+<img src="https://komarev.com/ghpvc/?username=Builtby-Sanskar&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 
 </div>
 
 ---
 
-<!-- ABOUT -->
+<!-- ═══════════════ PROFILE ═══════════════ -->
 
-## 👋 About Me
+<h2 align="center">▌ PROFESSIONAL PROFILE</h2>
 
-Hi, I'm **Sanskar Dubey**.
+<table>
+<tr>
+<td width="65%" valign="top">
 
-I'm interested in **Data Analysis, MIS Reporting, Operations and Python & Django Development**. I enjoy organizing data, identifying discrepancies, creating reports and exploring technology to solve practical problems.
+### About Me
 
-- 📊 Interested in Data Analysis and MIS Reporting
-- 📗 Working with Advanced Excel and data validation
-- ⚙️ Interested in operational tracking and reconciliation
-- 🐍 Exploring Python, Django and database management
-- 🎯 Focused on continuous learning and practical problem-solving
+Detail-oriented **Data Analyst and District Operations Manager** with **1.5 years of experience** in Excel-based data analysis, MIS reporting, operational tracking, data validation, reconciliation and district-level operations.
+
+Experienced in managing operational datasets, preparing management reports, identifying discrepancies, tracking field activities and coordinating teams to improve reporting accuracy and operational efficiency.
+
+Additionally trained in **Python and Django development**, with hands-on experience building database-driven web applications.
+
+</td>
+<td width="35%" valign="top">
+
+### Career Focus
+
+- Data Analysis
+- MIS Reporting
+- Advanced Excel
+- Operations Management
+- Reconciliation
+- Python Development
+- Django Applications
+- Database Management
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- SKILLS -->
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
 
-## 🛠️ Skills & Technologies
+<h2 align="center">▌ PROFESSIONAL EXPERIENCE</h2>
 
-### 📊 Data Analysis & Reporting
+<details open>
+<summary><b>Data Analyst & District Operations Manager | AAS Consultant</b></summary>
+
+<br/>
+
+📍 Gomti Nagar, Lucknow, Uttar Pradesh
+
+<text> <b>Experience:</b> 1.5 Years </text>
+
+- Managed and analyzed large operational datasets using MS Excel for daily and periodic reporting.
+- Prepared MIS reports, data summaries, reconciliation reports and management dashboards to support operational decisions.
+- Utilized VLOOKUP/XLOOKUP, IF, SUMIF/SUMIFS, COUNTIF/COUNTIFS, filters, sorting, conditional formatting and pivot-based analysis.
+- Performed data cleaning, validation, duplicate checks, discrepancy identification and date-wise/ID-wise data comparison.
+- Monitored district-level operations, tracked pending activities, followed up on operational gaps and coordinated with teams for timely closure.
+- Maintained daily operational records and prepared district-wise and date-wise performance reports for management review.
+- Identified data discrepancies and operational gaps and communicated findings for corrective action.
+- Coordinated with internal and field teams to ensure accurate data collection, reporting and timely completion of operational tasks.
+
+</details>
+
+---
+
+<!-- ═══════════════ TECHNICAL SKILLS ═══════════════ -->
+
+<h2 align="center">▌ TECHNICAL SKILLS</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Analysis
 
 <img src="https://img.shields.io/badge/Data_Cleaning-6C63FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Data_Validation-6C63FF?style=flat-square" />
@@ -50,21 +108,28 @@ I'm interested in **Data Analysis, MIS Reporting, Operations and Python & Django
 <img src="https://img.shields.io/badge/MIS_Reporting-6C63FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Data_Comparison-6C63FF?style=flat-square" />
 
-### 📗 Microsoft Excel
+</td>
 
-<img src="https://img.shields.io/badge/VLOOKUP-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/XLOOKUP-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<td width="50%" valign="top">
+
+### 📗 Advanced Excel
+
+<img src="https://img.shields.io/badge/VLOOKUP-217346?style=flat-square" />
+<img src="https://img.shields.io/badge/XLOOKUP-217346?style=flat-square" />
+<img src="https://img.shields.io/badge/IF-217346?style=flat-square" />
 <img src="https://img.shields.io/badge/SUMIF%2FSUMIFS-217346?style=flat-square" />
 <img src="https://img.shields.io/badge/COUNTIF%2FCOUNTIFS-217346?style=flat-square" />
+<img src="https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square" />
+<img src="https://img.shields.io/badge/Filters-217346?style=flat-square" />
 <img src="https://img.shields.io/badge/Conditional_Formatting-217346?style=flat-square" />
 
-- IF Functions
-- Filters
-- Data Comparison
-- Data Validation
+</td>
+</tr>
 
-### ⚙️ Operations & Management
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Operations
 
 <img src="https://img.shields.io/badge/District_Operations-4B5563?style=flat-square" />
 <img src="https://img.shields.io/badge/Team_Coordination-4B5563?style=flat-square" />
@@ -73,7 +138,11 @@ I'm interested in **Data Analysis, MIS Reporting, Operations and Python & Django
 <img src="https://img.shields.io/badge/Daily_Reporting-4B5563?style=flat-square" />
 <img src="https://img.shields.io/badge/Follow--ups-4B5563?style=flat-square" />
 
-### 🐍 Programming & Development
+</td>
+
+<td width="50%" valign="top">
+
+### 🐍 Programming
 
 <div align="center">
 
@@ -81,11 +150,19 @@ I'm interested in **Data Analysis, MIS Reporting, Operations and Python & Django
 
 </div>
 
-<img src="https://img.shields.io/badge/CRUD_Operations-3776AB?style=flat-square" />
+<br/>
+
+<img src="https://img.shields.io/badge/CRUD-3776AB?style=flat-square" />
 <img src="https://img.shields.io/badge/Authentication-3776AB?style=flat-square" />
 <img src="https://img.shields.io/badge/Authorization-3776AB?style=flat-square" />
 
-### 🗄️ Database Management
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Database
 
 <div align="center">
 
@@ -93,10 +170,16 @@ I'm interested in **Data Analysis, MIS Reporting, Operations and Python & Django
 
 </div>
 
-<img src="https://img.shields.io/badge/Django_ORM-092E20?style=flat-square&logo=django&logoColor=white" />
+<br/>
+
+<img src="https://img.shields.io/badge/Django_ORM-092E20?style=flat-square" />
 <img src="https://img.shields.io/badge/DBMS-2563EB?style=flat-square" />
 
-### 💻 Tools
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Tools
 
 <div align="center">
 
@@ -104,19 +187,124 @@ I'm interested in **Data Analysis, MIS Reporting, Operations and Python & Django
 
 </div>
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<br/>
+
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- ═══════════════ APPRENTICESHIP ═══════════════ -->
 
-## 📈 GitHub Statistics
+<h2 align="center">▌ INTERNSHIP / APPRENTICESHIP</h2>
+
+### Python Full Stack Developer Apprentice
+
+**Softpro India** — Lucknow, Uttar Pradesh
+
+<text color="#A78BFA">August 2025 – January 2026</text>
+
+- Developed web applications using Python, Django, HTML, CSS, Bootstrap and JavaScript.
+- Built authentication systems, CRUD functionality and database integration using MySQL and Django ORM.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+
+<h2 align="center">▌ FEATURED PROJECTS</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Smart Placement Management System
+
+<text color="#A78BFA">Python • Django • SQLite</text>
+
+Developed a placement management web application featuring role-based authentication, relational data models and categorized filtering for efficient data retrieval.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✍️ BLOGIFY
+
+<text color="#A78BFA">Full Stack Blogging Web Application</text>
+
+Built a blogging application featuring authentication, CRUD operations, database models, category filtering and search functionality.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Builtby-Sanskar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6" />
+<sub>Project repository links can be added here as they become available.</sub>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Builtby-Sanskar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+</div>
+
+---
+
+<!-- ═══════════════ EDUCATION ═══════════════ -->
+
+<h2 align="center">▌ EDUCATION</h2>
+
+| Qualification | Institution / Board | Year |
+|---|---|---|
+| Diploma in Information Technology | Feroze Gandhi Polytechnic College, Raebareli — BTEUP | 2022–2025 |
+| Intermediate (Class XII) | ISC Board | 2022 |
+| High School (Class X) | ICSE Board | 2020 |
+
+---
+
+<!-- ═══════════════ LANGUAGES ═══════════════ -->
+
+<h2 align="center">▌ LANGUAGES</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Hindi-Native-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/English-Professional-6D28D9?style=for-the-badge" />
+
+</div>
+
+---
+
+<!-- ═══════════════ GITHUB ═══════════════ -->
+
+<h2 align="center">▌ GITHUB ACTIVITY</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Builtby-Sanskar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Builtby-Sanskar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
 
 <br/><br/>
 
@@ -126,32 +314,31 @@ I'm interested in **Data Analysis, MIS Reporting, Operations and Python & Django
 
 ---
 
-<!-- PROJECTS -->
+<!-- ═══════════════ CONTACT ═══════════════ -->
 
-## 📂 Projects
-
-<!-- Add your project links here when ready -->
-
-<!--
-### Project Name
-
-Short description of your project.
-
-- Technologies: Python, Django, SQL
-- [View Project](YOUR_PROJECT_LINK)
--->
-
----
-
-<!-- FOOTER -->
+<h2 align="center">▌ CONTACT</h2>
 
 <div align="center">
 
-**Thanks for visiting my profile!**
+<a href="mailto:dubeysanskar35@gmail.com">
+<img src="https://img.shields.io/badge/Email-dubeysanskar35%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<sub>Keep Learning • Keep Building • Keep Growing</sub>
+<a href="https://github.com/Builtby-Sanskar">
+<img src="https://img.shields.io/badge/GitHub-Builtby--Sanskar-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
+
+📍 Raebareli, Uttar Pradesh, India
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>Building skills. Analyzing data. Improving operations.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0D1117&height=100&section=footer" width="100%" />
 
